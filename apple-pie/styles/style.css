@@ -22,15 +22,11 @@ body {
 
 h1 {
   color: white;
-  height: 500px;
-  font-size: 75px;
   align-content: center;
 }
 
 p {
   justify-self: center;
-  font-size: 30px;
-  width: 70%;
 }
 
 .title {
@@ -40,10 +36,6 @@ p {
 
 .recipe, .cooking {
   text-align: center;
-}
-
-hr { 
-  width: 70%;
 }
 
 ul {

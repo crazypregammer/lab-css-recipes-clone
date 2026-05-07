@@ -16,8 +16,6 @@ html {
 h1 {
   align-content: center;
   color: white;
-  height: 500px;
-  font-size: 75px;
 }
 
 ul {
@@ -25,8 +23,6 @@ ul {
 }
 
 p {
-  font-size: 30px;
-  width: 40%;
   justify-self: center;
 }
 
@@ -34,6 +30,3 @@ p {
   text-align: center;
 }
 
-hr {
-  width: 70%;
-}
