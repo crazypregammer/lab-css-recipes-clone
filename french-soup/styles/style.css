@@ -12,7 +12,7 @@ h1 {
   align-content: center;
   text-align: center;
   color: white;
-  background-image: url(/french-soup/images/soup.jpg);
+  background-image: url("/french-soup/images/soup.jpg");
   height: 500px;
   font-size: 75px;
 }
