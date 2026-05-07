@@ -8,13 +8,20 @@ html {
   font-size: 18px
 }
 
+.title {
+  text-align: center;
+  background-image: url("/french-soup/images/soup.jpg");
+}
+
 h1 {
   align-content: center;
-  text-align: center;
   color: white;
-  background-image: url("/french-soup/images/soup.jpg");
   height: 500px;
   font-size: 75px;
+}
+
+ul {
+  list-style-type: "-";
 }
 
 p {
@@ -23,14 +30,10 @@ p {
   justify-self: center;
 }
 
-div {
+.recipe, .cooking {
   text-align: center;
 }
 
 hr {
   width: 70%;
-}
-
-section {
-  margin: 50px 225px;
 }

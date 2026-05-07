@@ -21,12 +21,10 @@ body {
 }
 
 h1 {
-  background-image: url("/apple-pie/images/apple-pie.jpg");
   color: white;
-  align-content: center;
-  text-align: center;
   height: 500px;
   font-size: 75px;
+  align-content: center;
 }
 
 p {
@@ -34,7 +32,13 @@ p {
   font-size: 30px;
   width: 70%;
 }
-div {
+
+.title {
+  background-image: url("/apple-pie/images/apple-pie.jpg");
+  text-align: center;
+}
+
+.recipe, .cooking {
   text-align: center;
 }
 
@@ -46,9 +50,6 @@ ul {
   list-style-type: "-";
 }
 
-section {
-  margin: 50px 225px;
-}
 
 ol {
   list-style: none;        
